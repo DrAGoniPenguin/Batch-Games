@@ -1,9 +1,9 @@
-# Batch-Games
+# Batch-Games  
 Random Compilation of single file games I found here in Batch Script
 
 idk lol  
-Just a bunch of stuff in one place to mess around with at school.
-**I do not take ownership credit for any of these projects.**
+Just a bunch of stuff in one place to mess around with at school.  
+**I do not take ownership credit for any of these projects.**  
 Created to simply be created as a db for random people idk  
 
 **Sources and credits**  
