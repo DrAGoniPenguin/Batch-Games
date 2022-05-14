@@ -6,7 +6,7 @@ Just a bunch of stuff in one place to mess around with at school.
 **I do not take ownership credit for any of these projects.**
 Created to simply be created as a db for random people idk  
 
-**Sources and credits**
+**Sources and credits**  
 [2048 by @aabrosov](https://github.com/aabrosov/2048.cmd) - Slightly modified for visuals  
 [Snake by @brootware](https://github.com/brootware/snake-game)  
 [Rock Paper Scissors by @hXR16F](https://github.com/hXR16F/rps)  
